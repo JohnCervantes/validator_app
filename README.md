@@ -1,3 +1,5 @@
+A React and Node.js application that test a user input against a list of validations, such as, email, credit card, phone number and more. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
